@@ -1,4 +1,3 @@
-# capstone3
 
 Pemasaran Produk Deposito Berjangka oleh Bank XYZ
 
